@@ -1,4 +1,4 @@
 Django==1.9.1
 wheel==0.24.0
-pycurl
-jsonfield
+pycurl=7.19.3
+jsonfield=1.0.3
